@@ -22,10 +22,15 @@ liked to see and we did not discuss).
 
 Assignment
 Each group (max 3 students) is required to submit
+
 • a short document (max 5 pages, notebook or PDF) organized in 4 parts:
+
 P1: a presenta1on of the chosen topic
+
 P2: a report describing 8-10 programming ques1ons related to the topic
+
 P3: a short descrip1on of the “educa1onal goals” behind the choice of the selected
 topic and ques1ons
+
 P4: solu1ons and 1mings of the proposed exercises both on local and cluster mode
 when it is possible to perform this kind of comparison 
