@@ -21,6 +21,7 @@ proac1ve way to provide your feedback to the course by sugges1ng what you would 
 liked to see and we did not discuss).
 
 Assignment
+
 Each group (max 3 students) is required to submit
 
 • a short document (max 5 pages, notebook or PDF) organized in 4 parts:
